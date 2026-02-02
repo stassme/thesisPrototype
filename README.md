@@ -1,4 +1,4 @@
-# thesisPrototype
+# Thesis Prototype
 
 Small stateless HTTP microservice on Go: health check and a demo process endpoint. Clean layering (handler → service), config from env, graceful shutdown.
 
